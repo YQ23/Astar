@@ -1,2 +1,2 @@
-# Astar
-C语言编写A*算法
+# find_path
+编写寻路算法
